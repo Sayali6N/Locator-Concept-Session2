@@ -11,6 +11,9 @@ public class TestingGitAgain {
 		System.out.println("Lets see it on git");
 		System.out.println("Command is git status ");
 		System.out.println("git add . enter ");
+		System.out.println("Just Checking ");
+		System.out.println("This time too with add some random codes");
+		System.out.println("Checking Git");
 		
 	}
 
